@@ -17,7 +17,7 @@ A secure authentication system built with **Node.js, Express, and MongoDB**, imp
 ```bash
 ### **1.Clone the repository**
     git clone https://github.com/Shivani0212/User-Authentication-System.git
-    cd user-auth-system
+    cd User-Authentication-System
 
 ### **2.Install dependencies**
     npm install
