@@ -12,15 +12,16 @@ A secure authentication system built with **Node.js, Express, and MongoDB**, imp
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB (Mongoose ORM)  
 - **Authentication:** JWT, Bcrypt  
-- **Email Service:** Nodemailer  
-
-### **1.Clone the repository**
+- **Email Service:** Nodemailer
+-  
 ```bash
-git clone https://github.com/Shivani0212/User-Authentication-System.git
-cd user-auth-system
+### **1.Clone the repository**
+    git clone https://github.com/Shivani0212/User-Authentication-System.git
+    cd user-auth-system
 
 ### **2.Install dependencies**
     npm install
+
 ### **3.Create a .env file**
     MONGO_URI
     JWT_SECRET
